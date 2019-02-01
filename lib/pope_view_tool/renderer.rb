@@ -4,5 +4,6 @@ module PopeViewTool
       "&copy; #{Time.now.year} | <b>#{name}</b> #{message}".html_safe
     end 
   end 
-end   
+end  
+end  
  
