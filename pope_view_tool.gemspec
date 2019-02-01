@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "pope_view_tool"
   spec.version       = PopeViewTool::VERSION
   spec.authors       = ["Adam Pope"]
-  spec.email         = ["adam1.pope@gmail.com"]
+  spec.email         = ["adam1@gmail.com"]
 
   spec.summary       = %q{Various view specific methods for application I use.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
